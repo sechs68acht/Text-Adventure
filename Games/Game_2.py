@@ -4,7 +4,7 @@ print("You are a distant family member of a rich millionaire who has just passed
 print("As the newfound owner, you decide to pay a visit to the mansion.")
 print("The house is dated, creaky, and falling apart. You walk in the front door.")
 print("Do you want to enter the living room or the dining room?")
-
+print("Please Enter living room or dining room")
 ### Prompt user for a choice
 roomChoice = input("> ")
 
